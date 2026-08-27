@@ -7,6 +7,9 @@
 | Проект | Что это | Статус | Открыть |
 |---|---|---|---|
 | Zmeika Igra | Браузерная игра «Змейка» | В работе | [Репозиторий](https://github.com/deevalexandr10-prod/zmeika-igra) · [Codespaces](https://codespaces.new/deevalexandr10-prod/zmeika-igra) |
+| Project Template | Шаблон для новых проектов с Codex и Codespaces | Готов | [Репозиторий](https://github.com/deevalexandr10-prod/project-template) · [Создать проект](https://github.com/new?template_owner=deevalexandr10-prod&template_name=project-template) |
+
+Приватные проекты намеренно не перечислены в публичном README. После входа в GitHub они доступны во вкладке **Repositories** профиля.
 
 ## Как продолжить работу
 
@@ -24,4 +27,3 @@
 - `PROJECT_STATUS.md` хранит текущий результат и следующий шаг.
 - `.env.example` содержит только названия переменных и безопасные заглушки.
 - Настоящие секреты хранятся в GitHub Codespaces secrets, а не в репозитории.
-
